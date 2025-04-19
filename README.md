@@ -1,5 +1,5 @@
 
-# Personal Planner
+# Your_Notes
 
 This is your daily Personal Planner, made using React JS, Node and Express. 
 <br></br>
